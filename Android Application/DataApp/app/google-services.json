@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "211737108271",
+    "firebase_url": "https://cloudthing-e2328.firebaseio.com",
+    "project_id": "cloudthing-e2328",
+    "storage_bucket": "cloudthing-e2328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211737108271:android:6679c17ec59f9fa7878bda",
+        "android_client_info": {
+          "package_name": "com.example.dataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211737108271-7sdg0je7otf15b7rdm481oolerpb2au6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARjIx1Tdv_3yksAWMpxNgDcW0BV6lTO6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211737108271-7sdg0je7otf15b7rdm481oolerpb2au6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211737108271:android:b2856a9debca82de878bda",
+        "android_client_info": {
+          "package_name": "com.example.dyspneaaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211737108271-7sdg0je7otf15b7rdm481oolerpb2au6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARjIx1Tdv_3yksAWMpxNgDcW0BV6lTO6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211737108271-7sdg0je7otf15b7rdm481oolerpb2au6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
