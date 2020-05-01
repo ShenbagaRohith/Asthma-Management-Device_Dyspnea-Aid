@@ -2,10 +2,10 @@
 #include <DHT_U.h>
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
-#define WIFI_SSID "Rohith"
-#define WIFI_PASSWORD "y5y5y5y5"
+#define WIFI_SSID "wifi"
+#define WIFI_PASSWORD "password"
 #define FIREBASE_HOST "cloudthing-e2328.firebaseio.com"
-#define FIREBASE_AUTH "dCM3utOGUjo7RM5ycsd29gc1H0pFB0vduXITkAhq"
+#define FIREBASE_AUTH "key"
 #define DHTPIN            2         
 #define DHTTYPE           DHT11  
 DHT_Unified dht(DHTPIN, DHTTYPE);
