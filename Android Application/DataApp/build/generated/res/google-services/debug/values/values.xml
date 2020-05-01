@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">211737108271-7sdg0je7otf15b7rdm481oolerpb2au6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cloudthing-e2328.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">211737108271</string>
+    <string name="google_api_key" translatable="false">AIzaSyARjIx1Tdv_3yksAWMpxNgDcW0BV6lTO6M</string>
+    <string name="google_app_id" translatable="false">1:211737108271:android:6679c17ec59f9fa7878bda</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARjIx1Tdv_3yksAWMpxNgDcW0BV6lTO6M</string>
+    <string name="google_storage_bucket" translatable="false">cloudthing-e2328.appspot.com</string>
+    <string name="project_id" translatable="false">cloudthing-e2328</string>
+</resources>
